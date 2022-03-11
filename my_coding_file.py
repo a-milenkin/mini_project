@@ -1,2 +1,3 @@
 print('Hell World')
-print('first changes')
+print('first a change')
+print('second a change')
